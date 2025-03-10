@@ -1,0 +1,22 @@
+.hlp_advertise_setting table {
+    background: #fff;
+    border: 1px solid #ccc;
+    padding: 1px 20px;
+    margin-top: 15px;
+max-width: 98.4%;
+}
+.hlp_advertise_setting table tr {
+     border-bottom: 1px solid #ccc;
+}
+.hlp_advertise_setting table th {
+ text-align: center;
+vertical-align: middle;
+}
+.hlp_advertise_setting table td {
+   border-left: 1px solid #ccc;
+}
+.hlp_advertise_setting table td textarea {
+ width: 50%;
+ margin-top: 18px;
+ height: 150px;
+}
